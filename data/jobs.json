@@ -1,0 +1,3776 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "7 days ago",
+    "description": "Software Engineer at Google",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 1
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "5 days ago",
+    "description": "Software Engineer at Microsoft",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 2
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "6 days ago",
+    "description": "Software Engineer at Amazon",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 3
+  },
+  {
+    "title": "Software Engineer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "5 days ago",
+    "description": "Software Engineer at TCS",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 4
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "6 days ago",
+    "description": "Software Engineer at Infosys",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 5
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "1 days ago",
+    "description": "Software Engineer at Wipro",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 6
+  },
+  {
+    "title": "Software Engineer",
+    "company": "HCL",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "6 days ago",
+    "description": "Software Engineer at HCL",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 7
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Tech Mahindra",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "7 days ago",
+    "description": "Software Engineer at Tech Mahindra",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 8
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Accenture",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "4 days ago",
+    "description": "Software Engineer at Accenture",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 9
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Cognizant",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "3 days ago",
+    "description": "Software Engineer at Cognizant",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 10
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Deloitte",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "1 days ago",
+    "description": "Software Engineer at Deloitte",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 11
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "5 days ago",
+    "description": "Software Engineer at Capgemini",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 12
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Oracle",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "7 days ago",
+    "description": "Software Engineer at Oracle",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 13
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Salesforce",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "4 days ago",
+    "description": "Software Engineer at Salesforce",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 14
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "1 days ago",
+    "description": "Software Engineer at Google",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 15
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "2 days ago",
+    "description": "Software Engineer at Microsoft",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 16
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "1 days ago",
+    "description": "Software Engineer at Amazon",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 17
+  },
+  {
+    "title": "Software Engineer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "7 days ago",
+    "description": "Software Engineer at TCS",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 18
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "5 days ago",
+    "description": "Software Engineer at Infosys",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 19
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/software-engineer-jobs-bangalore",
+    "posted": "6 days ago",
+    "description": "Software Engineer at Wipro",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 20
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Software Engineer at Google",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 21
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "3 days ago",
+    "description": "Software Engineer at Microsoft",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 22
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "6 days ago",
+    "description": "Software Engineer at Amazon",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 23
+  },
+  {
+    "title": "Software Engineer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Software Engineer at TCS",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 24
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "3 days ago",
+    "description": "Software Engineer at Infosys",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 25
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "3 days ago",
+    "description": "Software Engineer at Wipro",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 26
+  },
+  {
+    "title": "Software Engineer",
+    "company": "HCL",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "6 days ago",
+    "description": "Software Engineer at HCL",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 27
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Tech Mahindra",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "7 days ago",
+    "description": "Software Engineer at Tech Mahindra",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 28
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Accenture",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "2 days ago",
+    "description": "Software Engineer at Accenture",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 29
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Cognizant",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Software Engineer at Cognizant",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 30
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Deloitte",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Software Engineer at Deloitte",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 31
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "3 days ago",
+    "description": "Software Engineer at Capgemini",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 32
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Oracle",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "7 days ago",
+    "description": "Software Engineer at Oracle",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 33
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Salesforce",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "5 days ago",
+    "description": "Software Engineer at Salesforce",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 34
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "5 days ago",
+    "description": "Software Engineer at Google",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 35
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "5 days ago",
+    "description": "Software Engineer at Microsoft",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 36
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Software Engineer at Amazon",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 37
+  },
+  {
+    "title": "Software Engineer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "6 days ago",
+    "description": "Software Engineer at TCS",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 38
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "4 days ago",
+    "description": "Software Engineer at Infosys",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 39
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=software+engineer&l=bangalore",
+    "posted": "4 days ago",
+    "description": "Software Engineer at Wipro",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 40
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-4366861071?position=1&pageNum=0&refId=zM08C5IlMKRKMhelBK8UpQ%3D%3D&trackingId=L7OhHjK3G9zawk0CsqRReA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 41
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Flipkart",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-flipkart-4416193464?position=2&pageNum=0&refId=zM08C5IlMKRKMhelBK8UpQ%3D%3D&trackingId=RowXP7ZDSHbUpFIVMMUb1g%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 42
+  },
+  {
+    "title": "Software Engineering",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineering-at-microsoft-4408518847?position=3&pageNum=0&refId=zM08C5IlMKRKMhelBK8UpQ%3D%3D&trackingId=Pd1asV5jRf20tZmqpbpLGQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 43
+  },
+  {
+    "title": "SDE 1 - Frontend (Web)",
+    "company": "Licious",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/sde-1-frontend-web-at-licious-4413509644?position=4&pageNum=0&refId=zM08C5IlMKRKMhelBK8UpQ%3D%3D&trackingId=2z%2BmOl6BvsP7zbKpShXyog%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 44
+  },
+  {
+    "title": "Software Engineer III, Backend, Pixel",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-backend-pixel-at-google-4417892644?position=5&pageNum=0&refId=zM08C5IlMKRKMhelBK8UpQ%3D%3D&trackingId=GHemSkWYF0ryPEHEM2wcfg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 45
+  },
+  {
+    "title": "Software Engineer, SRE",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-sre-at-google-4403955615?position=6&pageNum=0&refId=zM08C5IlMKRKMhelBK8UpQ%3D%3D&trackingId=0FGM47cSwsBqxXUumB5pTA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 46
+  },
+  {
+    "title": "Software Engineer - Development",
+    "company": "Cisco",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-development-at-cisco-4404078812?position=7&pageNum=0&refId=zM08C5IlMKRKMhelBK8UpQ%3D%3D&trackingId=JNZEZNzaSnBNb7E2Wb8g0A%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 47
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "Deloitte",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/java-software-engineer-at-deloitte-4413385762?position=8&pageNum=0&refId=zM08C5IlMKRKMhelBK8UpQ%3D%3D&trackingId=vDJO8y1tC3bOxaV1HoBcxw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 48
+  },
+  {
+    "title": "Software Engineer - Places",
+    "company": "Apple",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-places-at-apple-4414161564?position=9&pageNum=0&refId=zM08C5IlMKRKMhelBK8UpQ%3D%3D&trackingId=qMjz74OmHtIpPeSwD6YD7Q%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 49
+  },
+  {
+    "title": "Software Engineer III, Full Stack, Google Cloud",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-full-stack-google-cloud-at-google-4320959215?position=10&pageNum=0&refId=zM08C5IlMKRKMhelBK8UpQ%3D%3D&trackingId=xelpAm3xA0mUoCFxxohLrw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 50
+  },
+  {
+    "title": "Developer",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "7 days ago",
+    "description": "Developer at Google",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 51
+  },
+  {
+    "title": "Developer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "2 days ago",
+    "description": "Developer at Microsoft",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 52
+  },
+  {
+    "title": "Developer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "4 days ago",
+    "description": "Developer at Amazon",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 53
+  },
+  {
+    "title": "Developer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "5 days ago",
+    "description": "Developer at TCS",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 54
+  },
+  {
+    "title": "Developer",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "7 days ago",
+    "description": "Developer at Infosys",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 55
+  },
+  {
+    "title": "Developer",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "1 days ago",
+    "description": "Developer at Wipro",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 56
+  },
+  {
+    "title": "Developer",
+    "company": "HCL",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "7 days ago",
+    "description": "Developer at HCL",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 57
+  },
+  {
+    "title": "Developer",
+    "company": "Tech Mahindra",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "5 days ago",
+    "description": "Developer at Tech Mahindra",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 58
+  },
+  {
+    "title": "Developer",
+    "company": "Accenture",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "3 days ago",
+    "description": "Developer at Accenture",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 59
+  },
+  {
+    "title": "Developer",
+    "company": "Cognizant",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "1 days ago",
+    "description": "Developer at Cognizant",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 60
+  },
+  {
+    "title": "Developer",
+    "company": "Deloitte",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "6 days ago",
+    "description": "Developer at Deloitte",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 61
+  },
+  {
+    "title": "Developer",
+    "company": "Capgemini",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "7 days ago",
+    "description": "Developer at Capgemini",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 62
+  },
+  {
+    "title": "Developer",
+    "company": "Oracle",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "6 days ago",
+    "description": "Developer at Oracle",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 63
+  },
+  {
+    "title": "Developer",
+    "company": "Salesforce",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "3 days ago",
+    "description": "Developer at Salesforce",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 64
+  },
+  {
+    "title": "Developer",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "4 days ago",
+    "description": "Developer at Google",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 65
+  },
+  {
+    "title": "Developer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "3 days ago",
+    "description": "Developer at Microsoft",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 66
+  },
+  {
+    "title": "Developer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "1 days ago",
+    "description": "Developer at Amazon",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 67
+  },
+  {
+    "title": "Developer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "4 days ago",
+    "description": "Developer at TCS",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 68
+  },
+  {
+    "title": "Developer",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "6 days ago",
+    "description": "Developer at Infosys",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 69
+  },
+  {
+    "title": "Developer",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/developer-jobs-bangalore",
+    "posted": "2 days ago",
+    "description": "Developer at Wipro",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 70
+  },
+  {
+    "title": "Developer",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "2 days ago",
+    "description": "Developer at Google",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 71
+  },
+  {
+    "title": "Developer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "6 days ago",
+    "description": "Developer at Microsoft",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 72
+  },
+  {
+    "title": "Developer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "5 days ago",
+    "description": "Developer at Amazon",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 73
+  },
+  {
+    "title": "Developer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "4 days ago",
+    "description": "Developer at TCS",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 74
+  },
+  {
+    "title": "Developer",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Developer at Infosys",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 75
+  },
+  {
+    "title": "Developer",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "2 days ago",
+    "description": "Developer at Wipro",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 76
+  },
+  {
+    "title": "Developer",
+    "company": "HCL",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Developer at HCL",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 77
+  },
+  {
+    "title": "Developer",
+    "company": "Tech Mahindra",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "3 days ago",
+    "description": "Developer at Tech Mahindra",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 78
+  },
+  {
+    "title": "Developer",
+    "company": "Accenture",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "4 days ago",
+    "description": "Developer at Accenture",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 79
+  },
+  {
+    "title": "Developer",
+    "company": "Cognizant",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "5 days ago",
+    "description": "Developer at Cognizant",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 80
+  },
+  {
+    "title": "Developer",
+    "company": "Deloitte",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Developer at Deloitte",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 81
+  },
+  {
+    "title": "Developer",
+    "company": "Capgemini",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "2 days ago",
+    "description": "Developer at Capgemini",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 82
+  },
+  {
+    "title": "Developer",
+    "company": "Oracle",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Developer at Oracle",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 83
+  },
+  {
+    "title": "Developer",
+    "company": "Salesforce",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "5 days ago",
+    "description": "Developer at Salesforce",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 84
+  },
+  {
+    "title": "Developer",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "4 days ago",
+    "description": "Developer at Google",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 85
+  },
+  {
+    "title": "Developer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "4 days ago",
+    "description": "Developer at Microsoft",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 86
+  },
+  {
+    "title": "Developer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Developer at Amazon",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 87
+  },
+  {
+    "title": "Developer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "4 days ago",
+    "description": "Developer at TCS",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 88
+  },
+  {
+    "title": "Developer",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Developer at Infosys",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 89
+  },
+  {
+    "title": "Developer",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=developer&l=bangalore",
+    "posted": "2 days ago",
+    "description": "Developer at Wipro",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 90
+  },
+  {
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4344745519?position=1&pageNum=0&refId=tLXLRjBYhpa2%2BONvOXNn4g%3D%3D&trackingId=L2lg%2F%2F4V4lWfJ8sOENbW9g%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 91
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "Accenture in India",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4337040412?position=2&pageNum=0&refId=tLXLRjBYhpa2%2BONvOXNn4g%3D%3D&trackingId=hInKth4ZkTWB%2FbIxtugu7A%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 92
+  },
+  {
+    "title": "Python Developer",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-at-infosys-4322807316?position=3&pageNum=0&refId=tLXLRjBYhpa2%2BONvOXNn4g%3D%3D&trackingId=ADsVDB4H1tenLMvhNRlRUw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 93
+  },
+  {
+    "title": "Python",
+    "company": "Groupe SII",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/python-at-groupe-sii-4417493349?position=4&pageNum=0&refId=tLXLRjBYhpa2%2BONvOXNn4g%3D%3D&trackingId=33seI4CWQ4HzBVxkktPLFw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 94
+  },
+  {
+    "title": "DEVELOPER L3",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4409684678?position=5&pageNum=0&refId=tLXLRjBYhpa2%2BONvOXNn4g%3D%3D&trackingId=3R7jyhQJMmeIAIoWDVbELQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 95
+  },
+  {
+    "title": "UV Developer",
+    "company": "Mouser Electronics",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/uv-developer-at-mouser-electronics-4395659203?position=6&pageNum=0&refId=tLXLRjBYhpa2%2BONvOXNn4g%3D%3D&trackingId=kDLD%2BnGiQ%2FZS7OlvfZFdBQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 96
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Demoverse",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-developer-at-demoverse-4393559127?position=7&pageNum=0&refId=tLXLRjBYhpa2%2BONvOXNn4g%3D%3D&trackingId=5V6lUifaNTxv5Xh8V0oHiA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 97
+  },
+  {
+    "title": "Software Developer",
+    "company": "CBX1",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-developer-at-cbx1-4137534021?position=8&pageNum=0&refId=tLXLRjBYhpa2%2BONvOXNn4g%3D%3D&trackingId=Sul9AXdwnRJ4M066fG6YaA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 98
+  },
+  {
+    "title": "Back End Developer",
+    "company": "LTIMindtree",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-ltimindtree-4413689959?position=9&pageNum=0&refId=tLXLRjBYhpa2%2BONvOXNn4g%3D%3D&trackingId=vG0te0RWTmpbzvDCNyWKug%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 99
+  },
+  {
+    "title": "C ++",
+    "company": "Groupe SII",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/c-%2B%2B-at-groupe-sii-4417489479?position=10&pageNum=0&refId=tLXLRjBYhpa2%2BONvOXNn4g%3D%3D&trackingId=artuSCXOAFR4pyU9e5wRKA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 100
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "2 days ago",
+    "description": "Data Analyst at Google",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 101
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "7 days ago",
+    "description": "Data Analyst at Microsoft",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 102
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "3 days ago",
+    "description": "Data Analyst at Amazon",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 103
+  },
+  {
+    "title": "Data Analyst",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "3-5 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "4 days ago",
+    "description": "Data Analyst at TCS",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 104
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "4 days ago",
+    "description": "Data Analyst at Infosys",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 105
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "2 days ago",
+    "description": "Data Analyst at Wipro",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 106
+  },
+  {
+    "title": "Data Analyst",
+    "company": "HCL",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "2 days ago",
+    "description": "Data Analyst at HCL",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 107
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Tech Mahindra",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "5-10 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "1 days ago",
+    "description": "Data Analyst at Tech Mahindra",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 108
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Accenture",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "3 days ago",
+    "description": "Data Analyst at Accenture",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 109
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Cognizant",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "4 days ago",
+    "description": "Data Analyst at Cognizant",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 110
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Deloitte",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "3 days ago",
+    "description": "Data Analyst at Deloitte",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 111
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Capgemini",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "10-15 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "6 days ago",
+    "description": "Data Analyst at Capgemini",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 112
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Oracle",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "2 days ago",
+    "description": "Data Analyst at Oracle",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 113
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Salesforce",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "5 days ago",
+    "description": "Data Analyst at Salesforce",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 114
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "4 days ago",
+    "description": "Data Analyst at Google",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 115
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "15-20 LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "6 days ago",
+    "description": "Data Analyst at Microsoft",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 116
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "2 days ago",
+    "description": "Data Analyst at Amazon",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 117
+  },
+  {
+    "title": "Data Analyst",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "1 days ago",
+    "description": "Data Analyst at TCS",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 118
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "3 days ago",
+    "description": "Data Analyst at Infosys",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 119
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "20+ LPA",
+    "source": "naukri",
+    "url": "https://www.naukri.com/jobs/data-analyst-jobs-bangalore",
+    "posted": "6 days ago",
+    "description": "Data Analyst at Wipro",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 120
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "2 days ago",
+    "description": "Data Analyst at Google",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 121
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "6 days ago",
+    "description": "Data Analyst at Microsoft",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 122
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "2 days ago",
+    "description": "Data Analyst at Amazon",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 123
+  },
+  {
+    "title": "Data Analyst",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "3-5 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Data Analyst at TCS",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 124
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "6 days ago",
+    "description": "Data Analyst at Infosys",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 125
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "5 days ago",
+    "description": "Data Analyst at Wipro",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 126
+  },
+  {
+    "title": "Data Analyst",
+    "company": "HCL",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "6 days ago",
+    "description": "Data Analyst at HCL",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 127
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Tech Mahindra",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "5-10 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "7 days ago",
+    "description": "Data Analyst at Tech Mahindra",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 128
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Accenture",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "6 days ago",
+    "description": "Data Analyst at Accenture",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 129
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Cognizant",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "3 days ago",
+    "description": "Data Analyst at Cognizant",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 130
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Deloitte",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "6 days ago",
+    "description": "Data Analyst at Deloitte",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 131
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Capgemini",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "10-15 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Data Analyst at Capgemini",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 132
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Oracle",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "7 days ago",
+    "description": "Data Analyst at Oracle",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 133
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Salesforce",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "7 days ago",
+    "description": "Data Analyst at Salesforce",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 134
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Google",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Data Analyst at Google",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 135
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "15-20 LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "2 days ago",
+    "description": "Data Analyst at Microsoft",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 136
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "4 days ago",
+    "description": "Data Analyst at Amazon",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 137
+  },
+  {
+    "title": "Data Analyst",
+    "company": "TCS",
+    "location": "Bangalore",
+    "experience": "2-4 years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "1 days ago",
+    "description": "Data Analyst at TCS",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 138
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "4-6 years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "7 days ago",
+    "description": "Data Analyst at Infosys",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 139
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "experience": "6+ years",
+    "salary": "20+ LPA",
+    "source": "indeed",
+    "url": "https://in.indeed.com/jobs?q=data+analyst&l=bangalore",
+    "posted": "7 days ago",
+    "description": "Data Analyst at Wipro",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "id": 140
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-at-infosys-4398766299?position=1&pageNum=0&refId=Y0MaAwAiQSZ7Ntnkx5Mh6A%3D%3D&trackingId=%2FSXblWV4Dz9gT7JNwxFQlQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 141
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Stripe",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-at-stripe-4413492611?position=2&pageNum=0&refId=Y0MaAwAiQSZ7Ntnkx5Mh6A%3D%3D&trackingId=iLaFpDWRoyOmbkptLiyAiQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 142
+  },
+  {
+    "title": "Analyst - III",
+    "company": "Nykaa",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-iii-at-nykaa-4412643622?position=3&pageNum=0&refId=Y0MaAwAiQSZ7Ntnkx5Mh6A%3D%3D&trackingId=gbRMEsaoa%2B5zIx%2Bh%2BivcdQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 143
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Renesas Electronics",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-at-renesas-electronics-4419418672?position=4&pageNum=0&refId=Y0MaAwAiQSZ7Ntnkx5Mh6A%3D%3D&trackingId=5%2Fz%2F8M6nOf561S2Ae6di%2BA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 144
+  },
+  {
+    "title": "Data Analyst",
+    "company": "hackajob",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-at-hackajob-4406225678?position=5&pageNum=0&refId=Y0MaAwAiQSZ7Ntnkx5Mh6A%3D%3D&trackingId=hOPJcy%2FPq0eiRW%2BoHStQ8Q%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 145
+  },
+  {
+    "title": "Data Analyst (AI & Data Platform)",
+    "company": "Everbridge",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-ai-data-platform-at-everbridge-4415755203?position=6&pageNum=0&refId=Y0MaAwAiQSZ7Ntnkx5Mh6A%3D%3D&trackingId=a4IX8hZo6qp0de7jdHLBCA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 146
+  },
+  {
+    "title": "Data Analyst",
+    "company": "GreedyGame",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-at-greedygame-4400720616?position=7&pageNum=0&refId=Y0MaAwAiQSZ7Ntnkx5Mh6A%3D%3D&trackingId=siLurXnJroERDHFqhK4dPA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 147
+  },
+  {
+    "title": "Data Analyst \u2013 SQL/Power BI",
+    "company": "Innover Digital",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-%E2%80%93-sql-power-bi-at-innover-digital-4411354723?position=8&pageNum=0&refId=Y0MaAwAiQSZ7Ntnkx5Mh6A%3D%3D&trackingId=FBfZPKdxGLgBIkeZyMNCiw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 148
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Saarthee",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-at-saarthee-4418923908?position=9&pageNum=0&refId=Y0MaAwAiQSZ7Ntnkx5Mh6A%3D%3D&trackingId=7Q0JyQ4MM5Adt9OncsfHlw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 149
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Sudhanand Group",
+    "location": "Bangalore",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-at-sudhanand-group-4409304028?position=10&pageNum=0&refId=Y0MaAwAiQSZ7Ntnkx5Mh6A%3D%3D&trackingId=4ttWrDifT3yUmoR9QcvcHg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 150
+  },
+  {
+    "title": "Lead Software Engineer \u2013 Integrations ID54394",
+    "company": "AgileEngine",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/lead-software-engineer-%E2%80%93-integrations-id54394-at-agileengine-4414739128?position=1&pageNum=0&refId=43QbRiv7jKATi4K5qGzTDw%3D%3D&trackingId=wx5mXW4DN8VJdWhVHCvyYQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 151
+  },
+  {
+    "title": "Full Stack Developer - Desktop Engineering",
+    "company": "Miratech",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-developer-desktop-engineering-at-miratech-4411897228?position=1&pageNum=0&refId=bH04cQg%2FcLMiap5xTMHXUA%3D%3D&trackingId=LajKMP1BoJdLXldCRXy2cQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 152
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "Miratech",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-miratech-4417639688?position=2&pageNum=0&refId=bH04cQg%2FcLMiap5xTMHXUA%3D%3D&trackingId=DolvYstCcc%2BHZZjTjRscRQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 153
+  },
+  {
+    "title": "Sitecore Developer",
+    "company": "Gemini Solutions Pvt Ltd",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/sitecore-developer-at-gemini-solutions-pvt-ltd-4386869402?position=3&pageNum=0&refId=bH04cQg%2FcLMiap5xTMHXUA%3D%3D&trackingId=VZIn3Zwky44ncaOMHkcJoA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 154
+  },
+  {
+    "title": "Full Stack Software Developer",
+    "company": "Prodios Labs",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-software-developer-at-prodios-labs-4148777119?position=4&pageNum=0&refId=bH04cQg%2FcLMiap5xTMHXUA%3D%3D&trackingId=XPNTY9%2FitSZHQVby2rD%2BRw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 155
+  },
+  {
+    "title": "AR/VR Game Developer in Bangalore, Dehradun, Delhi",
+    "company": "VIZON",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/ar-vr-game-developer-in-bangalore-dehradun-delhi-at-vizon-4399912416?position=5&pageNum=0&refId=bH04cQg%2FcLMiap5xTMHXUA%3D%3D&trackingId=TKMO2dsfurU4%2FUQMYUYTGQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 156
+  },
+  {
+    "title": "Zoho Developer",
+    "company": "CBOSIT (Premium Zoho Partner)",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/zoho-developer-at-cbosit-premium-zoho-partner-4414572970?position=6&pageNum=0&refId=bH04cQg%2FcLMiap5xTMHXUA%3D%3D&trackingId=6nLMprwiUiHhno%2F7ubKRGw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 157
+  },
+  {
+    "title": "Sr. Backend Developer",
+    "company": "SecurePay",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/sr-backend-developer-at-securepay-4377173493?position=7&pageNum=0&refId=bH04cQg%2FcLMiap5xTMHXUA%3D%3D&trackingId=uhELAO4aRFRVkDpwh08MPw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 158
+  },
+  {
+    "title": "ReactJS Developer",
+    "company": "Acelucid Technologies Inc.",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-acelucid-technologies-inc-4306132118?position=8&pageNum=0&refId=bH04cQg%2FcLMiap5xTMHXUA%3D%3D&trackingId=6G3gF4fLFNlZ8m13DbFWxg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 159
+  },
+  {
+    "title": "React Native Developer Job In Dehradun",
+    "company": "Proponent Technologies",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/react-native-developer-job-in-dehradun-at-proponent-technologies-4400313237?position=9&pageNum=0&refId=bH04cQg%2FcLMiap5xTMHXUA%3D%3D&trackingId=CVObwSAphe50z0bXlfMM5w%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 160
+  },
+  {
+    "title": "Flutter Developer Job In Dehradun",
+    "company": "Proponent Technologies",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/flutter-developer-job-in-dehradun-at-proponent-technologies-4399877396?position=10&pageNum=0&refId=bH04cQg%2FcLMiap5xTMHXUA%3D%3D&trackingId=Aw5A9DE35unTokxjhpbwxw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 161
+  },
+  {
+    "title": "Drilling Data Analyst",
+    "company": "SLB",
+    "location": "Dehradun",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/drilling-data-analyst-at-slb-4401611337?position=1&pageNum=0&refId=01DLbFM1dbiKVoCiKWxd4w%3D%3D&trackingId=lS4fWkhOngiLhewEMzw7SQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 162
+  },
+  {
+    "title": "SDE2",
+    "company": "Amazon",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/sde2-at-amazon-4255423521?position=3&pageNum=0&refId=n3vteN7cy21OhYZyH30s1g%3D%3D&trackingId=7WgeaMLMMPvKiS%2BWUEDdRA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 163
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Akkodis",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-akkodis-4413858849?position=4&pageNum=0&refId=n3vteN7cy21OhYZyH30s1g%3D%3D&trackingId=b4QUQDSgFD2ANlhgW5L9xw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 164
+  },
+  {
+    "title": "Software Development Engineer",
+    "company": "Clearwater Analytics",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-clearwater-analytics-4416126607?position=6&pageNum=0&refId=n3vteN7cy21OhYZyH30s1g%3D%3D&trackingId=MDSGJO4ZBR1fvp9R%2B1TSbg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 165
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Anaplan",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-anaplan-4413705115?position=8&pageNum=0&refId=n3vteN7cy21OhYZyH30s1g%3D%3D&trackingId=IV1b8UF1O1FRXJsQwQz8eA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 166
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Moody's Corporation",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-moody-s-corporation-4417743950?position=9&pageNum=0&refId=n3vteN7cy21OhYZyH30s1g%3D%3D&trackingId=5f7iKSD9FL5lrlzU1ftAig%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 167
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Cadence",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-cadence-4414491789?position=10&pageNum=0&refId=n3vteN7cy21OhYZyH30s1g%3D%3D&trackingId=09tnVHpIWGhDLk%2B0gsMfsg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 168
+  },
+  {
+    "title": "Dainik Bhaskar - Lead Software Engineer - Backend Development",
+    "company": "Dainik Bhaskar",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/dainik-bhaskar-lead-software-engineer-backend-development-at-dainik-bhaskar-4419109681?position=1&pageNum=0&refId=a6XuzRpKPTTC5dwD8FdkBA%3D%3D&trackingId=QkEAIpRYPunu%2B9diqc3nVg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 169
+  },
+  {
+    "title": "Associate",
+    "company": "PwC India",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/associate-at-pwc-india-4291067264?position=2&pageNum=0&refId=a6XuzRpKPTTC5dwD8FdkBA%3D%3D&trackingId=t92UUZ0XMSxIFatwUjY71Q%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 170
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Cerebry",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/frontend-developer-at-cerebry-4306120381?position=3&pageNum=0&refId=a6XuzRpKPTTC5dwD8FdkBA%3D%3D&trackingId=xGrsqQWW%2FkdQEroqOG8iNQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 171
+  },
+  {
+    "title": "Web Developer",
+    "company": "INDmoney",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/web-developer-at-indmoney-4413292726?position=4&pageNum=0&refId=a6XuzRpKPTTC5dwD8FdkBA%3D%3D&trackingId=Eh7%2FziR9hgc5bpaSLn566w%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 172
+  },
+  {
+    "title": "Back End Developer",
+    "company": "airtel",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-airtel-4410155874?position=5&pageNum=0&refId=a6XuzRpKPTTC5dwD8FdkBA%3D%3D&trackingId=okfka5oyCr0zUeVAwESOmA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 173
+  },
+  {
+    "title": "React Developer",
+    "company": "Teleport",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/react-developer-at-teleport-4407458100?position=6&pageNum=0&refId=a6XuzRpKPTTC5dwD8FdkBA%3D%3D&trackingId=oQGEE8GWryrInrABBLooYg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 174
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "American Express",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-i-at-american-express-4416593116?position=7&pageNum=0&refId=a6XuzRpKPTTC5dwD8FdkBA%3D%3D&trackingId=tJm4ibHoLHbawa8kXyqMeg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 175
+  },
+  {
+    "title": "Frontend Developer SDE II",
+    "company": "Snapmint",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/frontend-developer-sde-ii-at-snapmint-4382979223?position=8&pageNum=0&refId=a6XuzRpKPTTC5dwD8FdkBA%3D%3D&trackingId=tqdSVYNvfGVSpT2WwlUxsQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 176
+  },
+  {
+    "title": "Software Developer (Full Stack) - Remote, India",
+    "company": "LeewayHertz",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/software-developer-full-stack-remote-india-at-leewayhertz-4408694336?position=10&pageNum=0&refId=a6XuzRpKPTTC5dwD8FdkBA%3D%3D&trackingId=Ec0y11icl9VQFe6tf5ajQw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 177
+  },
+  {
+    "title": "Business Intelligence",
+    "company": "MakeMyTrip",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/business-intelligence-at-makemytrip-4411640704?position=1&pageNum=0&refId=6GxPUy86jwbN5nQbJvs34w%3D%3D&trackingId=8ZEEyGX13GMVAOHq%2B8XGTg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 178
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Airtel Payments Bank",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-at-airtel-payments-bank-4415323669?position=2&pageNum=0&refId=6GxPUy86jwbN5nQbJvs34w%3D%3D&trackingId=0tnxnv%2FA%2FMnI4zWZyyHBcw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 179
+  },
+  {
+    "title": "AI & Data Analytics Executive",
+    "company": "Air India SATS Airport Services Private Limited (AISATS)",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/ai-data-analytics-executive-at-air-india-sats-airport-services-private-limited-aisats-4418585187?position=3&pageNum=0&refId=6GxPUy86jwbN5nQbJvs34w%3D%3D&trackingId=%2BWqrmH1F8iyXMgpqkdHWaA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 180
+  },
+  {
+    "title": "Data Analysis",
+    "company": "EXL",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analysis-at-exl-4342246167?position=4&pageNum=0&refId=6GxPUy86jwbN5nQbJvs34w%3D%3D&trackingId=la9jIMGFEpaJUwMlD%2FweRg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 181
+  },
+  {
+    "title": "Data Analyst",
+    "company": "SourceFuse",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-at-sourcefuse-4404272130?position=5&pageNum=0&refId=6GxPUy86jwbN5nQbJvs34w%3D%3D&trackingId=pB9nFpCqvop%2BWdoQsbPT0g%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 182
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Coforge",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-at-coforge-4413669871?position=6&pageNum=0&refId=6GxPUy86jwbN5nQbJvs34w%3D%3D&trackingId=BkXmuqU02j6lFVLOMNbA9g%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 183
+  },
+  {
+    "title": "Operations Data Analyst",
+    "company": "Thiess",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/operations-data-analyst-at-thiess-4402948632?position=7&pageNum=0&refId=6GxPUy86jwbN5nQbJvs34w%3D%3D&trackingId=HFmkpFZBhs5yA6SUCae4QQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 184
+  },
+  {
+    "title": "Data Analyst/Engineer \u2013 SCG India",
+    "company": "SCG",
+    "location": "Gurgaon",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-engineer-%E2%80%93-scg-india-at-scg-4298398443?position=9&pageNum=0&refId=6GxPUy86jwbN5nQbJvs34w%3D%3D&trackingId=cuYo6kcgv7sK7sPmF73T%2Fg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 185
+  },
+  {
+    "title": "Application Developer",
+    "company": "Accenture in India",
+    "location": "Noida",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4412937247?position=2&pageNum=0&refId=taHveT9%2BlMx8dI0omdIZSA%3D%3D&trackingId=4h3FViXWP9%2B6tkN9QANyoQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 186
+  },
+  {
+    "title": "Full Stack Developer (Remote)",
+    "company": "Anteelo",
+    "location": "Noida",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-developer-remote-at-anteelo-4405642827?position=4&pageNum=0&refId=taHveT9%2BlMx8dI0omdIZSA%3D%3D&trackingId=svGWOt%2FXL4SMUM7g5%2Fg1PQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 187
+  },
+  {
+    "title": "SDE2, CHEX",
+    "company": "Amazon",
+    "location": "Noida",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/sde2-chex-at-amazon-4335773804?position=5&pageNum=0&refId=taHveT9%2BlMx8dI0omdIZSA%3D%3D&trackingId=HJiDmjJBVSC1lIxcgzL%2BwQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 188
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Leena AI",
+    "location": "Noida",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/backend-developer-at-leena-ai-4379583331?position=6&pageNum=0&refId=taHveT9%2BlMx8dI0omdIZSA%3D%3D&trackingId=41KzuB4G2R%2BysnCKTNfOpw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 189
+  },
+  {
+    "title": "Analyst Developer",
+    "company": "FNZ",
+    "location": "Noida",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-developer-at-fnz-4411509470?position=7&pageNum=0&refId=taHveT9%2BlMx8dI0omdIZSA%3D%3D&trackingId=OwZxsMWpFpg5uORMCjmIzQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 190
+  },
+  {
+    "title": "IOT Developers",
+    "company": "Brace Infotech Private Ltd",
+    "location": "Noida",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/iot-developers-at-brace-infotech-private-ltd-4302341246?position=9&pageNum=0&refId=taHveT9%2BlMx8dI0omdIZSA%3D%3D&trackingId=ScICTI8qhjQt4A4XaZwrgA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 191
+  },
+  {
+    "title": "Backend Developer",
+    "company": "WheelsEye",
+    "location": "Noida",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/backend-developer-at-wheelseye-4306133103?position=10&pageNum=0&refId=taHveT9%2BlMx8dI0omdIZSA%3D%3D&trackingId=WlJag3szMMJZEu1o3n4owg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 192
+  },
+  {
+    "title": "Analyst-Data Science",
+    "company": "American Express",
+    "location": "Noida",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-data-science-at-american-express-4419851068?position=7&pageNum=0&refId=5KP6xFo91sYk7ADFeEHTDw%3D%3D&trackingId=HXqMsOXhEWRwh6Vk0T686w%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 193
+  },
+  {
+    "title": "Data Analyst (NL-SQL)",
+    "company": "Innodata Inc.",
+    "location": "Noida",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-analyst-nl-sql-at-innodata-inc-4411161306?position=9&pageNum=0&refId=5KP6xFo91sYk7ADFeEHTDw%3D%3D&trackingId=MN1c48TSZQZYC4az655GpQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 194
+  },
+  {
+    "title": "PowerBI Developer",
+    "company": "EXL",
+    "location": "Noida",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/powerbi-developer-at-exl-4342206534?position=10&pageNum=0&refId=5KP6xFo91sYk7ADFeEHTDw%3D%3D&trackingId=kxNnthQ6MuflQvF1xEy8zg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 195
+  },
+  {
+    "title": "Junior Software Engineer",
+    "company": "Medpace",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-medpace-4351877495?position=1&pageNum=0&refId=EozD1iYiUiCUzjLvhESGqQ%3D%3D&trackingId=VWSMEEsCgMTVp%2FUO6bbJjw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 196
+  },
+  {
+    "title": "AI Software Engineer",
+    "company": "ERP Suites",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/ai-software-engineer-at-erp-suites-4400422734?position=2&pageNum=0&refId=EozD1iYiUiCUzjLvhESGqQ%3D%3D&trackingId=R1DZNUWQJgBg%2BYqFGFmt7w%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 197
+  },
+  {
+    "title": "Associate Software Engineer",
+    "company": "MassMutual Ascend",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-massmutual-ascend-4401504370?position=3&pageNum=0&refId=EozD1iYiUiCUzjLvhESGqQ%3D%3D&trackingId=cXfRXTGzAJCObaMPj8LY9A%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 198
+  },
+  {
+    "title": "AI Software Engineer",
+    "company": "ChatGPT Jobs",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/ai-software-engineer-at-chatgpt-jobs-4366076610?position=4&pageNum=0&refId=EozD1iYiUiCUzjLvhESGqQ%3D%3D&trackingId=wR99mi20NswshYTTqJ2n0Q%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 199
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Storage Solutions - A Jungheinrich Company",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-at-storage-solutions-a-jungheinrich-company-4398191820?position=5&pageNum=0&refId=EozD1iYiUiCUzjLvhESGqQ%3D%3D&trackingId=sxBhWErR17m2Zc9QIFblOQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 200
+  },
+  {
+    "title": "Junior Software Developer - Observability",
+    "company": "Canonical",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/junior-software-developer-observability-at-canonical-4344554595?position=6&pageNum=0&refId=EozD1iYiUiCUzjLvhESGqQ%3D%3D&trackingId=FdmC9u%2F1uxsG3WpYxLoFkQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 201
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Medpace",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-at-medpace-4345390049?position=7&pageNum=0&refId=EozD1iYiUiCUzjLvhESGqQ%3D%3D&trackingId=KLobGxLgQGLSCDk7QbHx5w%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 202
+  },
+  {
+    "title": "Software Engineer - Python - Cloud - graduate level",
+    "company": "Canonical",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-python-cloud-graduate-level-at-canonical-4389970043?position=8&pageNum=0&refId=EozD1iYiUiCUzjLvhESGqQ%3D%3D&trackingId=759zvFeN72SO4MOwepJdNg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 203
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Ampcus Inc",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-ampcus-inc-4398416315?position=9&pageNum=0&refId=EozD1iYiUiCUzjLvhESGqQ%3D%3D&trackingId=J%2BteoszTr7cC%2BnLfk8DtsQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 204
+  },
+  {
+    "title": "Software Engineer (Python/Linux/Packaging)",
+    "company": "Canonical",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-python-linux-packaging-at-canonical-4284594379?position=10&pageNum=0&refId=EozD1iYiUiCUzjLvhESGqQ%3D%3D&trackingId=J3wlUvnctuikL%2BFk%2FLsttg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 205
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "NES Technologies (India)",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/full-stack-developer-at-nes-technologies-india-4405854807?position=1&pageNum=0&refId=CnJlzp7UuvTUTNNbLjovXQ%3D%3D&trackingId=NnuZpfwVzyn2JwMVsELqAg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 206
+  },
+  {
+    "title": "Python Developer - Entry-Experienced",
+    "company": "Medpace",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/python-developer-entry-experienced-at-medpace-4410821360?position=3&pageNum=0&refId=CnJlzp7UuvTUTNNbLjovXQ%3D%3D&trackingId=C8qI5d9E6X93rXD3vd%2BOsQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 207
+  },
+  {
+    "title": "Software Developer",
+    "company": "Neron Informatics Pvt Ltd",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/software-developer-at-neron-informatics-pvt-ltd-4404345520?position=4&pageNum=0&refId=CnJlzp7UuvTUTNNbLjovXQ%3D%3D&trackingId=gAqHpLXUCxRojvBYPDs3tA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 208
+  },
+  {
+    "title": "Web Developer",
+    "company": "Canonical",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/web-developer-at-canonical-4284581757?position=5&pageNum=0&refId=CnJlzp7UuvTUTNNbLjovXQ%3D%3D&trackingId=LPHvkALk%2BEoTnoLXVWm5TA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 209
+  },
+  {
+    "title": "Associate Developer",
+    "company": "ChatGPT Jobs",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/associate-developer-at-chatgpt-jobs-4356058970?position=6&pageNum=0&refId=CnJlzp7UuvTUTNNbLjovXQ%3D%3D&trackingId=oO8wQJYt7LND%2B7H9OSpn7A%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 210
+  },
+  {
+    "title": "Software Developer",
+    "company": "Midmark Corporation",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/software-developer-at-midmark-corporation-4412130288?position=7&pageNum=0&refId=CnJlzp7UuvTUTNNbLjovXQ%3D%3D&trackingId=AbGVMHOBN9gXlwzA9CZyKw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 211
+  },
+  {
+    "title": "Software Developer (Backend SaaS)",
+    "company": "Canonical",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/software-developer-backend-saas-at-canonical-4358911156?position=10&pageNum=0&refId=CnJlzp7UuvTUTNNbLjovXQ%3D%3D&trackingId=CvrZy8kQEDBgJelXXmWiCg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 212
+  },
+  {
+    "title": "Business Analyst - AI and Data Analytics",
+    "company": "DHL Express",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/business-analyst-ai-and-data-analytics-at-dhl-express-4419518233?position=1&pageNum=0&refId=rRJcifY7coyGBSfkn4%2FK3g%3D%3D&trackingId=br2YmMHRSbUkRRMQTw%2BEAQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 213
+  },
+  {
+    "title": "Data Reporting Analyst",
+    "company": "Great American Insurance Group",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/data-reporting-analyst-at-great-american-insurance-group-4416428907?position=2&pageNum=0&refId=rRJcifY7coyGBSfkn4%2FK3g%3D%3D&trackingId=BVFK8tdCNmmVoDRPUzEzXQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 214
+  },
+  {
+    "title": "Commercial Analyst",
+    "company": "SuperATV",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/commercial-analyst-at-superatv-4416194111?position=3&pageNum=0&refId=rRJcifY7coyGBSfkn4%2FK3g%3D%3D&trackingId=DK%2BhM%2B5moaMfStvHztDZhQ%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 215
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Berkley Aspire (a Berkley Company)",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-berkley-aspire-a-berkley-company-4414500095?position=4&pageNum=0&refId=rRJcifY7coyGBSfkn4%2FK3g%3D%3D&trackingId=uGSIOcGRjnR%2Fa9F9Ot%2BGbw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 216
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Worldpay",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-worldpay-4419955755?position=5&pageNum=0&refId=rRJcifY7coyGBSfkn4%2FK3g%3D%3D&trackingId=d5jbgfnOHyDPLLRNXdoKCg%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 217
+  },
+  {
+    "title": "Data Analyst with AI",
+    "company": "Tata Consultancy Services",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-with-ai-at-tata-consultancy-services-4418812930?position=6&pageNum=0&refId=rRJcifY7coyGBSfkn4%2FK3g%3D%3D&trackingId=OKcRjusDaMH3%2Fcvaz4e5MA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 218
+  },
+  {
+    "title": "Data Research Analyst-1",
+    "company": "Miami University",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/data-research-analyst-1-at-miami-university-4339514010?position=7&pageNum=0&refId=rRJcifY7coyGBSfkn4%2FK3g%3D%3D&trackingId=HI1KnfyKXfn4boQMAaJwkA%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 219
+  },
+  {
+    "title": "Actuarial Data Analyst",
+    "company": "Core Specialty Insurance Holdings, Inc.",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/actuarial-data-analyst-at-core-specialty-insurance-holdings-inc-4406736072?position=8&pageNum=0&refId=rRJcifY7coyGBSfkn4%2FK3g%3D%3D&trackingId=H8PXrBIpBpgJsyKCHDhe2w%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 220
+  },
+  {
+    "title": "Data Developer / BI Analyst - Onsite",
+    "company": "Mammotome",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/data-developer-bi-analyst-onsite-at-mammotome-4400454131?position=9&pageNum=0&refId=rRJcifY7coyGBSfkn4%2FK3g%3D%3D&trackingId=Lb8HfA%2Feh88zdMCUHq%2F4Pw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 221
+  },
+  {
+    "title": "Financial Data Analyst \u2013 Business Intelligence",
+    "company": "Fifth Third Bank",
+    "location": "Delhi",
+    "experience": "0-2 years",
+    "salary": "5-15 LPA",
+    "source": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/financial-data-analyst-%E2%80%93-business-intelligence-at-fifth-third-bank-4414727869?position=10&pageNum=0&refId=rRJcifY7coyGBSfkn4%2FK3g%3D%3D&trackingId=DElWMgsOxRqdQu5AvkgHhw%3D%3D",
+    "posted": "1-3 days ago",
+    "description": "Click to view on LinkedIn",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "id": 222
+  }
+]

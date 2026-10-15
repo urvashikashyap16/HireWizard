@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HireWizard Architecture</title>
+    <style>
+        body {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .main {
+            text-align: center;
+            max-width: 600px;
+        }
+
+        h1 {
+            color: #7c3aed;
+            margin-bottom: 30px;
+            font-size: 1.8em;
+        }
+
+        .box {
+            background: rgba(124, 58, 237, 0.15);
+            border: 2px solid #7c3aed;
+            border-radius: 6px;
+            padding: 10px 15px;
+            color: #e0e7ff;
+            margin: 10px auto;
+            font-size: 0.9em;
+            width: fit-content;
+            min-width: 120px;
+        }
+
+        .api-box {
+            border-color: #06b6d4;
+            background: rgba(6, 182, 212, 0.15);
+            color: #cbd5e1;
+        }
+
+        .db-box {
+            border-color: #22c55e;
+            background: rgba(34, 197, 94, 0.15);
+        }
+
+        .ext-box {
+            border-color: #f97316;
+            background: rgba(249, 115, 22, 0.15);
+        }
+
+        .arrow {
+            color: #3b82f6;
+            font-size: 1.2em;
+            margin: 5px 0;
+        }
+
+        .row {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 15px 0;
+        }
+
+        .column {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .label {
+            color: #7c3aed;
+            font-size: 0.8em;
+            margin-top: 5px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <h1>HireWizard Architecture</h1>
+
+        <!-- Frontend -->
+        <div class="box">Frontend<br/>(HTML/CSS/JS)</div>
+        <div class="arrow">↓</div>
+
+        <!-- API Layer -->
+        <div class="box api-box">14 REST API Endpoints</div>
+        <div class="arrow">↓</div>
+
+        <!-- Backend Services -->
+        <div class="row">
+            <div class="column">
+                <div class="box">Web Scraper<br/>(BeautifulSoup)</div>
+                <div class="label">Naukri, Indeed<br/>LinkedIn</div>
+            </div>
+            <div class="column">
+                <div class="box">Authentication<br/>(Werkzeug)</div>
+                <div class="label">Login/Signup</div>
+            </div>
+            <div class="column">
+                <div class="box">Job Management<br/>(Filter/Search)</div>
+                <div class="label">Apply/Save</div>
+            </div>
+        </div>
+
+        <div class="arrow">↓</div>
+
+        <!-- Database -->
+        <div class="row">
+            <div class="column">
+                <div class="db-box">Users</div>
+            </div>
+            <div class="column">
+                <div class="db-box">Jobs<br/>(450+)</div>
+            </div>
+            <div class="column">
+                <div class="db-box">Applications</div>
+            </div>
+            <div class="column">
+                <div class="db-box">Saved</div>
+            </div>
+        </div>
+
+        <div class="arrow">↓</div>
+
+        <!-- External -->
+        <div class="row">
+            <div class="ext-box">Naukri</div>
+            <div class="ext-box">Indeed</div>
+            <div class="ext-box">LinkedIn</div>
+        </div>
+
+        <!-- Features -->
+        <div style="margin-top: 30px; color: #cbd5e1; font-size: 0.85em;">
+            <p>✅ Auth  ✅ Job Scraping  ✅ Filter  ✅ Apply  ✅ Save  ✅ Analytics  ✅ Auto Update (6hrs)</p>
+        </div>
+    </div>
+</body>
+</html>
