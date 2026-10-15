@@ -257,7 +257,7 @@ hirewizard-complete/
 9. **Logout** → Back to landing
 
 ### **Tell your teacher:**
-- "We built a **complete full-stack application**"
+- "I built a **complete full-stack application**"
 - "**Frontend** has particles, glassmorphism, animations"
 - "**Backend** is Flask with REST API"
 - "**Storage** uses localStorage AND JSON files"
@@ -290,21 +290,3 @@ hirewizard-complete/
 5. **Enhance features** - Add real web scraping
 
 ---
-
-## 👥 **TEAM KISHORI**
-
-- **Urvashi Kashyap** - Team Lead, Backend
-- **Supriya Rawat** - Frontend, UI/UX
-- **Ridham Singh** - Frontend, Integration
-
----
-
-**CONGRATULATIONS! 🎉**
-
-You have a **complete, professional, production-ready** job aggregator platform!
-
-**Just run it and show your teacher - they'll love it!** ❤️
-
----
-
-**Built with ❤️ for Graphic Era Hill University**

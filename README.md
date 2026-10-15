@@ -310,14 +310,4 @@ python app.py  # Change port in app.py if 5000 is busy
 
 ---
 
-## 👥 **TEAM KISHORI**
-
-- **Urvashi Kashyap** - Team Lead, Backend Development
-- **Supriya Rawat** - Frontend Development, UI/UX Design
-- **Ridham Singh** - Frontend Development, Integration
-
----
-
----
-
-<div align="center">Built by Team Kishori 💜</div>
+<div align="center">Built by <a href="https://github.com/urvashikashyap16">Urvashi Kashyap</a> 💜</div>
